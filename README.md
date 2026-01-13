@@ -41,4 +41,5 @@ flutter pub get
 flutter run
 ```
 ## Demo Video
-- YouTube Demo: https://youtube.com/watch?v=7ltUKyo2XNc&t=6s
+[![ASL Tutor Demo](https://img.youtube.com/vi/7ltUKyo2XNc/0.jpg)](https://www.youtube.com/watch?v=7ltUKyo2XNc&t=6s)
+
