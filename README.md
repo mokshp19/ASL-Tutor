@@ -41,4 +41,4 @@ flutter pub get
 flutter run
 ```
 ## Demo Video
-- YouTube Demo: https://youtube.com/watch?v=7ltUKyo2XNc&t=6s)
+- YouTube Demo: https://youtube.com/watch?v=7ltUKyo2XNc&t=6s
